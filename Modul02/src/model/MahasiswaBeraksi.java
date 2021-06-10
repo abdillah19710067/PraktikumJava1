@@ -23,7 +23,7 @@ public class MahasiswaBeraksi {
         Mahasiswa mahasiswa2 = new Mahasiswa();
         mahasiswa2.npm = "19710083";
         mahasiswa2.nama = "Febri";
-        mahasiswa2.tanggalLahir = simpleDateFormat.parse( "08-02-2001");
+        mahasiswa2.tanggalLahir = simpleDateFormat.parse( "05-03-2001");
 
         System.out.println("Nama \t\t\t : " + mahasiswa2.nama);
         System.out.println("Npm \t\t\t : " + mahasiswa2.npm);
