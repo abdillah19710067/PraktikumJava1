@@ -32,7 +32,7 @@ public class MahasiswaBeraksi {
 
         Mahasiswa mahasiswa3 = new Mahasiswa();
         mahasiswa3.npm = "19710087";
-        mahasiswa3.nama = "Achmad Rifai";
+        mahasiswa3.nama = "Achmad Rifa'i";
         mahasiswa3.tanggalLahir = simpleDateFormat.parse( "04-03-2001");
 
         System.out.println("Nama \t\t\t : " + mahasiswa3.nama);
